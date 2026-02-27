@@ -3,7 +3,7 @@ Instrucciones para correr el proyecto:
 1. Clonar el repositorio:
 git clone https://github.com/mateocuenya/desarrollo_ws.git.
 Luego: 
-cd ws_desarrollo
+cd desarrollo_ws
 
 
 2. Instalar dependencias:

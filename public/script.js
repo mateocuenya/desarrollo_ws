@@ -126,10 +126,6 @@ if (esChat) {
    enviarBoton.disabled = true;
 }
 
-
-
-
-
   enviarBoton.addEventListener("click", enviarMensaje);
 
   mensajeInput.addEventListener("keydown", (e) => {
